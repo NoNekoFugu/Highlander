@@ -34,7 +34,7 @@ Both are right.
 
 ## Tokenomics (or whatever)
 
-- **Supply:** 1,000,000,000 $ONE  
+- **Supply:** 10,000,000,000 $LONE  
 - **Ownership:** Renounced.  
 - **Liquidity:** Locked in lightning.  
 - **Utility:** Existential.  
