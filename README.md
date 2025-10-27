@@ -68,7 +68,7 @@ We don’t sell tokens.
 
 ## 📜 Eternal Disclaimer
 
-$HIGHLANDER is not a financial instrument.  
+HIGHLANDER is not a financial instrument.  
 It is a **crypto saga** — a tribute to absurdity, irony, and survival.  
 No team. No presale. No mercy.  
 Only lightning — and the blockchain remembers.
