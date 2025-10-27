@@ -1,6 +1,6 @@
 # ⚡ $HIGHLANDER — The Meme That Refused to Die
 
-https://github.com/user-attachments/assets/9919c6ef-24a5-43c8-84c3-15de8358d3a4
+https://github.com/user-attachments/assets/621bab94-e92c-446f-8098-316d76a98431
 
 
 > “On the market, as in the Game, there can be only one.”
