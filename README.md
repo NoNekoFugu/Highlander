@@ -1,75 +1,74 @@
-# ⚔️ Highlander — The Meme That Refused to Die
+# ⚡ $HIGHLANDER — The Meme That Refused to Die
 
-<img width="1536" height="1024" alt="CA95229F-D42B-4F0F-A562-C2C1EB1D31E6" src="https://github.com/user-attachments/assets/b7f8dde1-5d3c-449e-b033-88930e008a86" />
+<img width="1536" height="1024" alt="CA95229F-D42B-4F0F-A562-C2C1EB1D31E6" src="https://github.com/user-attachments/assets/2d9f7aec-a059-4fd5-b387-bf9eddcc4035" />
 
-## Saga of the One
-
-Once upon a blockchain,  
-when Solana gas was cheap and irony was currency,  
-a nameless degen clicked “Create Token.”  
-He didn’t know what he was summoning.  
-Lightning struck the chain. A contract was born.
-
-**Highlander ($ONE)** — forged not in code, but in sarcasm.  
-It doesn’t promise utility. It promises survival.  
-
-While other tokens begged for listings,  
-Highlander just stood there — sword in hand,  
-waiting for the next pump, or the next bear market.  
-Whichever came first.
+> “On the market, as in the Game, there can be only one.”
 
 ---
 
-## The Philosophy
+## ⚡ Mission
 
-- ⚡ *There is no team.* Only believers and survivors.  
-- 🗡️ *There is no roadmap.* The path reveals itself in thunder.  
-- 🕯️ *There is no marketing.* Just destiny... and memes.  
+We are not a project.  
+We are an ancient clan of traders — born between the bear market and the bull run.
 
-Some say the contract was written by an immortal dev.  
-Others say it’s just another shitcoin.  
-Both are right.
+Every hundred years, a new token appears —  
+a new immortal with a roadmap, a whitepaper, and new promises.
 
----
-
-## Tokenomics (or whatever)
-
-- **Supply:** 10,000,000,000 $LONE  
-- **Ownership:** Renounced.  
-- **Liquidity:** Locked in lightning.  
-- **Utility:** Existential.  
-
-Every buy is a duel. Every sell is a beheading.  
-And when the dust settles —  
-only one wallet will remain.  
+They come... and they fall.  
+Some vanish in the first round,  
+others survive long enough to reach a CEX listing.  
+But in the end of this crypto battle —  
+**only one will remain.**
 
 ---
 
-## The Creed
+## 🗡️ Our Principles
 
-> “No DAO. No Discord.  
-> No promises. No mercy.”  
-
-Memes fade. Trends die.  
-But Highlander... remains.  
-
-💀 Every token dies.  
-But one… survives.
+- Don’t promise immortality — just outlive the rest.  
+- Every pump is a *Quickening.*  
+- Every dump is a lesson.  
+- Market cap fades, irony endures.  
 
 ---
 
-### 📜 Final Words
+## 💀 Our Philosophy
 
-This isn’t a revolution.  
-This is a resurrection —  
-of irony, of absurdity, of all the things  
-that made crypto fun before PowerPoint decks and VC decks killed it.  
+We don’t seek investors —  
+**we summon the Clan.**
 
-May the lightning guide you, anon.  
-And if you ever forget why you’re here —  
-just whisper:  
+The Clan of those who remember PEPE, DOGE, and SHIB.  
+Who saw the death of 4meme gods and the fall of pump.fun prophets.  
+Who know that memes live not for utility — but for legend.
 
-> *There can be only one.*
+We don’t sell tokens.  
+**We pass the sword.**
+
 ---
 
-**MIT License** — because immortality shouldn’t be proprietary.
+## ⚔️ Roadmap — “The Game of Immortals”
+
+1. **Awakening (Launch)** — the token emerges from the fog of blockchain, without a marketing plan or hope.  
+2. **The First Duel (First Pump)** — liquidity tests the will, the chart trembles, the sword glows.  
+3. **The Quickening** — the fusion of irony, despair, and 20x leverage.  
+4. **Judgment Day (Regulation)** — the SEC notices movement on the chart.  
+5. **The Last One** — only the one who holds till the end shall remain.  
+
+---
+
+## 🕯️ The Clan’s Code
+
+> “We lived in the age of liquidity and forgotten legends.  
+> We traded until we became memes ourselves.  
+>  
+> And if fate allows it,  
+> we shall raise the sword once more,  
+> to protect what no longer makes sense.”  
+
+---
+
+## 📜 Eternal Disclaimer
+
+$HIGHLANDER is not a financial instrument.  
+It is a **crypto saga** — a tribute to absurdity, irony, and survival.  
+No team. No presale. No mercy.  
+Only lightning — and the blockchain remembers.
