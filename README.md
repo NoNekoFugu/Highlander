@@ -1,6 +1,7 @@
-# ⚔️ Highlander ($ONE)
+# ⚔️ Highlander ($LONE)
 
 > “There can be only one.”
+<img width="1536" height="1024" alt="CA95229F-D42B-4F0F-A562-C2C1EB1D31E6" src="https://github.com/user-attachments/assets/d4c0bf01-6a09-4da4-9800-972cbc4aac7b" />
 
 A meme token born from **lightning**, **irony**, and **pure survival instinct**.  
 In a world of millions of coins, only one can stand.  
