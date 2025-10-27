@@ -1,61 +1,75 @@
-# ⚔️ Highlander ($LONE)
+# ⚔️ Highlander — The Meme That Refused to Die
 
-<img width="1536" height="1024" alt="CA95229F-D42B-4F0F-A562-C2C1EB1D31E6" src="https://github.com/user-attachments/assets/d4c0bf01-6a09-4da4-9800-972cbc4aac7b" />
+<img width="1536" height="1024" alt="CA95229F-D42B-4F0F-A562-C2C1EB1D31E6" src="https://github.com/user-attachments/assets/b7f8dde1-5d3c-449e-b033-88930e008a86" />
 
-> “There can be only one.”
+## Saga of the One
 
-A meme token born from **lightning**, **irony**, and **pure survival instinct**.  
-In a world of millions of coins, only one can stand.  
+Once upon a blockchain,  
+when Solana gas was cheap and irony was currency,  
+a nameless degen clicked “Create Token.”  
+He didn’t know what he was summoning.  
+Lightning struck the chain. A contract was born.
 
-No promises. No roadmap.  
-Just instinct, memes — and immortality.  
+**Highlander ($ONE)** — forged not in code, but in sarcasm.  
+It doesn’t promise utility. It promises survival.  
 
-💀 Every token dies.  
-But one… survives.  
-
----
-
-### ⚡ Token Philosophy
-
-Highlander isn’t a project — it’s a survival experiment.  
-Every meme wants to live forever, but only one will.  
-We don’t build utilities. We build legends.  
+While other tokens begged for listings,  
+Highlander just stood there — sword in hand,  
+waiting for the next pump, or the next bear market.  
+Whichever came first.
 
 ---
 
-### 🧠 Core Principles
+## The Philosophy
 
-- 🗡️ **Irony is utility** — if you get it, you get it.  
-- ⚡ **Survival > hype** — fads fade, the meme remains.  
-- 💬 **Decentralized mythology** — the story writes itself.  
+- ⚡ *There is no team.* Only believers and survivors.  
+- 🗡️ *There is no roadmap.* The path reveals itself in thunder.  
+- 🕯️ *There is no marketing.* Just destiny... and memes.  
+
+Some say the contract was written by an immortal dev.  
+Others say it’s just another shitcoin.  
+Both are right.
 
 ---
 
-### 🧬 Tokenomics
+## Tokenomics (or whatever)
 
 - **Supply:** 1,000,000,000 $ONE  
-- **Chain:** Pump.fun (Solana)  
-- **Contract:** _(to be announced)_  
-- **Liquidity:** Bonded by the curve. No owner. No mercy.  
+- **Ownership:** Renounced.  
+- **Liquidity:** Locked in lightning.  
+- **Utility:** Existential.  
+
+Every buy is a duel. Every sell is a beheading.  
+And when the dust settles —  
+only one wallet will remain.  
 
 ---
 
-### 🌩️ Lore
+## The Creed
 
-Forged in lightning.  
-Born in irony.  
-Trained by chaos.  
-And when the storm comes…  
-There can be only one.
+> “No DAO. No Discord.  
+> No promises. No mercy.”  
+
+Memes fade. Trends die.  
+But Highlander... remains.  
+
+💀 Every token dies.  
+But one… survives.
 
 ---
 
-### 🧭 Socials
+### 📜 Final Words
 
-- 🐦 [Twitter / X](https://x.com)  
-- 💬 [Telegram](https://t.me/Nonekofugu)  
-- 🌐 [Website](https://pump.fun)  
+This isn’t a revolution.  
+This is a resurrection —  
+of irony, of absurdity, of all the things  
+that made crypto fun before PowerPoint decks and VC decks killed it.  
 
+May the lightning guide you, anon.  
+And if you ever forget why you’re here —  
+just whisper:  
+
+> *There can be only one.*
 ---
 
 **MIT License** — because immortality shouldn’t be proprietary.
